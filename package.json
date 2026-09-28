@@ -1,0 +1,13 @@
+{
+  "name": "teki-rrhh",
+  "version": "1.0.0",
+  "description": "SaaS de Recursos Humanos - TEKI",
+  "scripts": {
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build"
+  },
+  "private": true
+}
