@@ -1,5 +1,5 @@
 import axios from 'axios';
-
+//prueba de comentario
 const api = axios.create({
 //  baseURL: 'http://localhost:3001/api',
   baseURL: 'https://vps-aff6ee56.vps.ovh.ca/rrhh2-api/api',
